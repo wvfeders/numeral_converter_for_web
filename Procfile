@@ -1,0 +1,1 @@
+web: bundle exec ruby numeral_encoder_for_web.rb

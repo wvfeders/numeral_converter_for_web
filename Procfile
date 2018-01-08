@@ -1,1 +1,1 @@
-web: bundle exec ruby numeral_encoder_for_web.rb
+web: bundle exec ruby numeral_changer_for_web.rb
